@@ -8,10 +8,7 @@ import {
   Tooltip,
   BarChart,
   Bar,
-  PieChart,
-  Pie,
-  Cell,
-  ResponsiveContainer,
+  
 } from "recharts";
 
 const chartTypes = [
