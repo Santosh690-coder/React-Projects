@@ -23,7 +23,7 @@ Open the provided local development URL in your browser and use the dropdown to 
 
 ## License
 
-[MIT License](LICENSE)
+[Custom License Agreement](LICENSE)
 
 ## Credits
 
