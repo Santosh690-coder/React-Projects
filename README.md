@@ -12,7 +12,7 @@ To explore a specific project:
 
 1.  **Clone this repository:**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/Santosh690-coder/React-Projects.git
     ```
 2.  **Navigate into the project's directory** (e.g., `cd Stock Data Visualizer`).
 3.  **Refer to the `README.md` and `LICENSE` files within that project** for details on how you can use the code.

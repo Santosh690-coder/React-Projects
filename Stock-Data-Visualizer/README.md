@@ -4,8 +4,8 @@ Visualize stock data from the Alpha Vantage API using interactive charts.
 
 ## Charts
 
-- **Line Chart:** Shows the trend of the high price over time in the form of line chart.
-- **Bar Chart:** Shows the trend of the high price over time in the form of bar chart.
+- **Line Chart:** Shows the trend of the adjusted closing price over time.
+- **Bar Chart:** Displays the daily trading volume.
 
 ## Setup
 
@@ -36,4 +36,4 @@ Open the provided local development URL in your browser and use the dropdown to 
 
 ![Image of the output](./src/assets/StockData.png)
 
-
+![Image of Bar Chart](./src/assets/StockDataBar.png)
