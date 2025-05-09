@@ -7,7 +7,7 @@ import {
   CartesianGrid,
   Tooltip,
   BarChart,
-  Bar,
+  Bar
   
 } from "recharts";
 
